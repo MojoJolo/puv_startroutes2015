@@ -1,0 +1,512 @@
+Mode,Location,Latitude,Longitude
+Bus,"Alabang",14.4170343,121.0476194
+Bus,"Alabang",14.4170343,121.0476194
+Bus,"Alabang",14.4170343,121.0476194
+Bus,"Alabang",14.4170343,121.0476194
+Bus,"Alabang",14.4170343,121.0476194
+Bus,"Alabang",14.4170343,121.0476194
+Bus,"Alabang",14.4170343,121.0476194
+Bus,"Alabang (Muntinlupa)",14.4183645,121.0384987
+Bus,"Alabang",14.4170343,121.0476194
+Bus,"Alabang (Muntinlupa)",14.4183645,121.0384987
+Bus,"Alabang",14.4170343,121.0476194
+Bus,"Alabang",14.4170343,121.0476194
+Bus,"Alabang",14.4170343,121.0476194
+Bus,"Alabang",14.4170343,121.0476194
+Bus,"Angono",14.5457372,121.1767658
+Bus,"Antipolo",14.6254827,121.1244847
+Bus,"Asturias",14.612396,120.987115
+Bus,"Ayala Ave",14.556588,121.021783
+Bus,"Ayala Ave",14.556588,121.021783
+Bus,"Ayala Ave",14.556588,121.021783
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Baclaran",14.5294163,120.9971024
+Bus,"Bagong Silang",14.7771421,121.0430543
+Bus,"Bagong Silang",14.7771421,121.0430543
+Bus,"Bagong Silang",14.7771421,121.0430543
+Bus,"Cainta (Rizal)",14.5864844,121.114876
+Bus,"Cainta",14.5864844,121.114876
+Bus,"Cainta",14.5864844,121.114876
+Bus,"Dasmariñas",14.299018,120.95897
+Bus,"Eastwood Libis",14.6089208,121.0798372
+Bus,"Fairview",14.702179,121.06821
+Bus,"FTI",14.506432,121.035571
+Bus,"FTI",14.506432,121.035571
+Bus,"FTI",14.506432,121.035571
+Bus,"GMA",14.3066935,121.01373
+Bus,"Grotto",14.790147,121.074596
+Bus,"Grotto",14.790147,121.074596
+Bus,"Grotto",14.790147,121.074596
+Bus,"Lagro",14.726327,121.066205
+Bus,"Malanday",14.647586,121.0943958
+Bus,"Malanday Term",14.719030,120.95755
+Bus,"Marilao (Bulacan)",14.7728024,120.9704234
+Bus,"Montalban",14.759817,121.201947
+Bus,"Moonwalk",14.492372,121.008497
+Bus,"NAIA",14.512274,121.016508
+Bus,"NAIA",14.512274,121.016508
+Bus,"Navotas Terminal",14.651256,120.9475643
+Bus,"Norzagaray",14.8744717,121.1446143
+Bus,"Norzagaray",14.8744717,121.1446143
+Bus,"Norzagaray",14.8744717,121.1446143
+Bus,"Norzagaray",14.8744717,121.1446143
+Bus,"Norzagaray",14.8744717,121.1446143
+Bus,"Norzagaray/Sapang Palay",14.8420945,121.0621749
+Bus,"Norzagaray/Sapang Palay",14.8420945,121.0621749
+Bus,"Novaliches (Term)",14.727640,121.04159
+Bus,"Novaliches",14.7214015,121.0521411
+Bus,"Pacita Complex",14.3509036,121.052143
+Bus,"Pacita Complex (SPL)",14.350904,121.052143
+Bus,"Pacita Complex (SPL)",14.350904,121.052143
+Bus,"Pacita Complex",14.3509036,121.052143
+Bus,"Pacita",14.6559952,120.9968087
+Bus,"Pacita",14.6559952,120.9968087
+Bus,"PalaPala Dasma Cavite",14.2986158,120.9564712
+Bus,"Pandacan (Beata)",14.5911196,121.0080975
+Bus,"Pasig City",14.5763768,121.0851097
+Bus,"Sapang Palay",14.8420945,121.0621749
+Bus,"Sapang Palay",14.8420945,121.0621749
+Bus,"Sapang Palay",14.8420945,121.0621749
+Bus,"Sapang Palay",14.8420945,121.0621749
+Bus,"Sapang Palay",14.8420945,121.0621749
+Bus,"Sapang Palay",14.8420945,121.0621749
+Bus,"Sapang Palay",14.8420945,121.0621749
+Bus,"San Jose Del Monte",14.8205675,121.1022942
+Bus,"SM Southmall",14.4328359,121.0102148
+Bus,"San Mateo",14.677484,121.159584
+Bus,"Sta Maria",14.8463073,120.9991032
+Bus,"Sta Maria",14.8463073,120.9991032
+Bus,"Sta Maria",14.8463073,120.9991032
+Bus,"Sta Maria",14.8463073,120.9991032
+Bus,"Sta Maria",14.8463073,120.9991032
+Bus,"Taguig",14.5176184,121.0508645
+Bus,"Taguig",14.5176184,121.0508645
+Bus,"Taytay",14.5585549,121.1360819
+Bus,"Taytay",14.5585549,121.1360819
+Bus,"Tramo",14.532684,121.003838
+UV Express,"Alabang",14.4170343,121.0476194
+UV Express,"Alabang",14.4170343,121.0476194
+UV Express,"Angono",14.5457372,121.1767658
+UV Express,"Antipolo",14.6254827,121.1244847
+UV Express,"Antipolo",14.6254827,121.1244847
+UV Express,"Antipolo",14.6254827,121.1244847
+UV Express,"Antipolo",14.6254827,121.1244847
+UV Express,"Antipolo",14.6254827,121.1244847
+UV Express,"Antipolo",14.6254827,121.1244847
+UV Express,"Antipolo",14.6254827,121.1244847
+UV Express,"Antipolo",14.6254827,121.1244847
+UV Express,"Antipolo",14.6254827,121.1244847
+UV Express,"Antipolo",14.6254827,121.1244847
+UV Express,"Apalit (Pamp)",14.9601027,120.792458
+UV Express,"Bahayang Pagasa (Imus)",14.377705,120.970232
+UV Express,"Bahay Pag-asa",14.6887485,120.9757489
+UV Express,"Balagtas",14.8227794,120.9130435
+UV Express,"Balibago",14.2935521,121.1067332
+UV Express,"Balibago",14.2935521,121.1067332
+UV Express,"Biñan (Laguna)",14.303634,121.078149
+UV Express,"Binangonan",14.4765477,121.195743
+UV Express,"Binangonan",14.4765477,121.195743
+UV Express,"Binangonan",14.4765477,121.195743
+UV Express,"Brgy. Mamatid (Cabuyao, Laguna)",14.2320334,121.1458007
+UV Express,"Calamba (Laguna)",14.1876712,121.1250825
+UV Express,"Calumpit (Bulacan)",14.9011437,120.769476
+UV Express,"Camella Homes",14.4390432,120.9973175
+UV Express,"Camella Homes",14.4390432,120.9973175
+UV Express,"Camella Homes",14.4390432,120.9973175
+UV Express,"Camella Springville",14.347449,121.045385
+UV Express,"Cardona",14.361905,121.23402
+UV Express,"Cardona",14.361905,121.23402
+UV Express,"Carmona (Cav.)",14.297280,121.039244
+UV Express,"Cogeo",14.6234864,121.1733293
+UV Express,"Cogeo",14.6234864,121.1733293
+UV Express,"Cubao",14.6177663,121.0571541
+UV Express,"Dasmariñas (Cav)",14.299018,120.95897
+UV Express,"Dau (Mabalacat, Pampanga)",15.1779637,120.5872019
+UV Express,"Dela Salle Dasmariñas",14.326959,120.957298
+UV Express,"Deparo",14.7471238,121.0210353
+UV Express,"Divisoria Mall (GMA, Cav)",14.479130,120.896963
+UV Express,"Famy (Lag)",14.473008,121.484245
+UV Express,"Francisco Homes",14.6760958,121.0714047
+UV Express,"Francisco Homes",14.6760958,121.0714047
+UV Express,"Francisco Homes",14.6760958,121.0714047
+UV Express,"Golden City (Dasma)",14.2736902,120.9876406
+UV Express,"Greenland Executive Village (Cainta)",14.671901,121.123065
+UV Express,"Heritage (Bulacan)",14.824989,120.871277
+UV Express,"Imus",14.4064221,120.9405057
+UV Express,"Imus",14.4064221,120.9405057
+UV Express,"Imus",14.4064221,120.9405057
+UV Express,"LRT Santolan Station",14.6220443,121.0860421
+UV Express,"Malhacan",14.7406235,120.9689892
+UV Express,"Malhacan",14.7406235,120.9689892
+UV Express,"Malolos",14.8527393,120.8160376
+UV Express,"Malolos",14.8527393,120.8160376
+UV Express,"Malolos",14.8527393,120.8160376
+UV Express,"Malolos",14.8527393,120.8160376
+UV Express,"Mamatid (Cabuyao, Lag)",14.2384299,121.1524244
+UV Express,"Marilao",14.7728024,120.9704234
+UV Express,"Marilao",14.7728024,120.9704234
+UV Express,"Marilao Terminal",14.8028026,121.0351914
+UV Express,"Marilao",14.7728024,120.9704234
+UV Express,"Masinag",14.44402,120.9364883
+UV Express,"Masinag",14.44402,120.9364883
+UV Express,"Meycauayan",14.7498856,120.9739288
+UV Express,"Meycauayan",14.7498856,120.9739288
+UV Express,"Molino 4 Bacoor"
+UV Express,"Molino",14.452596,120.960791
+UV Express,"Montalban",14.759817,121.201947
+UV Express,"Montalban",14.759817,121.201947
+UV Express,"Morong",14.5181416,121.2389794
+UV Express,"Morong",14.5181416,121.2389794
+UV Express,"Naic",14.2964865,120.792458
+UV Express,"Norzagaray",14.8744717,121.1446143
+UV Express,"Norzagaray (Proper)",14.874472,121.144614
+UV Express,"Norzagaray",14.8744717,121.1446143
+UV Express,"Obando",14.726273,120.925328
+UV Express,"Pacita",14.6559952,120.9968087
+UV Express,"Pacita Complex",14.3509036,121.052143
+UV Express,"Pacita Complex",14.3509036,121.052143
+UV Express,"Pacita Complex",14.3509036,121.052143
+UV Express,"Pacita Complex",14.3509036,121.052143
+UV Express,"Pacita Complex",14.3509036,121.052143
+UV Express,"Pacita Complex",14.3509036,121.052143
+UV Express,"Pacita Complex",14.3509036,121.052143
+UV Express,"Paliparan",14.1154415,121.2826641
+UV Express,"Paliparan",14.1154415,121.2826641
+UV Express,"Paliparan",14.1154415,121.2826641
+UV Express,"Paliparan",14.1154415,121.2826641
+UV Express,"Pasig Market",14.5645552,121.085165
+UV Express,"Plaridel",14.8814829,120.8671201
+UV Express,"Queen's Row",14.439886,121.029599
+UV Express,"Queen's Row",14.439886,121.029599
+UV Express,"Real (Calamba Crosng)",14.2033838,121.1560593
+UV Express,"Robinson's Cainta",14.5807782,121.1890164
+UV Express,"Robinson's (Imus)",14.4126828,120.9408423
+UV Express,"Rodriguez",14.759817,121.2019468
+UV Express,"Rodriguez",14.759817,121.2019468
+UV Express,"Rodriguez (Montalban)",14.7322672,121.1449958
+UV Express,"Rodriguez (SbUrbn)",14.759817,121.201947
+UV Express,"San Mateo (Rizal)",14.6774841,121.1595842
+UV Express,"San Pedro (Lag)",14.3488961,121.0392436
+UV Express,"San Pedro (Lag)",14.3488961,121.0392436
+UV Express,"SM Bacoor",14.4459648,120.9507477
+UV Express,"SM Marilao (Bul)",14.7538137,120.9564395
+UV Express,"SM Marilao (Bul)",14.7538137,120.9564395
+UV Express,"Springville Molino Bac",14.388585,120.983064
+UV Express,"St.Michael (Mey, Bul)",14.762614,120.995873
+UV Express,"Sta Lucia (Cainta)",14.583952,121.101246
+UV Express,"Sta Rosa",14.2843023,121.0888928
+UV Express,"Sta Rosa",14.2843023,121.0888928
+UV Express,"Sto Niño (Meyc)",14.743724,121.055169
+UV Express,"Sto Niño (Meyc)",14.743724,121.055169
+UV Express,"Sto Niño (Meyc)",14.743724,121.055169
+UV Express,"Sto Niño (Meyc)",14.743724,121.055169
+UV Express,"Taal (Bats)",13.889312,120.935999
+UV Express,"Tabang",14.833680,120.865685
+UV Express,"Tabang",14.833680,120.865685
+UV Express,"Tanay",14.5797053,121.3312882
+UV Express,"Tanay",14.5797053,121.3312882
+UV Express,"Tanay Morong Bgonan Fwy",14.491497,121.282073
+UV Express,"Tanza (Cav)",14.3519672,120.8384093
+UV Express,"Target Mall (Balibago)",14.293552,121.106733
+UV Express,"Taytay",14.5585549,121.1360819
+UV Express,"Trece Martirez",14.2866478,120.8613785
+UV Express,"Turo (Bocaue)",14.8059883,120.9388678
+UV Express,"Turo (Bocaue)",14.8059883,120.9388678
+UV Express,"Turo (Bocue)",14.8059883,120.9388678
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Alabang",14.4170343,121.0476194
+Jeepney,"Angono",14.5457372,121.1767658
+Jeepney,"Angono",14.5457372,121.1767658
+Jeepney,"Angono",14.5457372,121.1767658
+Jeepney,"Angono",14.5457372,121.1767658
+Jeepney,"Angono",14.5457372,121.1767658
+Jeepney,"Angono",14.5457372,121.1767658
+Jeepney,"Angono",14.5457372,121.1767658
+Jeepney,"Angono",14.5457372,121.1767658
+Jeepney,"Angono (Rizal)",14.5457372,121.1767658
+Jeepney,"Angono",14.5457372,121.1767658
+Jeepney,"Antipolo",14.6254827,121.1244847
+Jeepney,"Antipolo",14.6254827,121.1244847
+Jeepney,"Antipolo",14.6254827,121.1244847
+Jeepney,"Antipolo",14.6254827,121.1244847
+Jeepney,"Antipolo",14.6254827,121.1244847
+Jeepney,"Antipolo",14.6254827,121.1244847
+Jeepney,"Antipolo",14.6254827,121.1244847
+Jeepney,"Antipolo (Cogeo)",14.6254827,121.1244847
+Jeepney,"Antipolo (Cogeo)",14.6254827,121.1244847
+Jeepney,"Antipolo (Cogeo)",14.6254827,121.1244847
+Jeepney,"Antipolo (Cogeo)",14.6254827,121.1244847
+Jeepney,"Antipolo (Town Proper)",14.7604805,121.1846146
+Jeepney,"Antipolo",14.6254827,121.1244847
+Jeepney,"Ayala (Landmark)",14.549471,121.02688
+Jeepney,"Ayala",14.5490214,121.028215
+Jeepney,"Baclaran",14.5294163,120.9971024
+Jeepney,"Baclaran",14.5294163,120.9971024
+Jeepney,"Baclaran",14.5294163,120.9971024
+Jeepney,"Baclaran",14.5294163,120.9971024
+Jeepney,"Baclaran",14.5294163,120.9971024
+Jeepney,"Baclaran",14.5294163,120.9971024
+Jeepney,"Baclaran",14.5294163,120.9971024
+Jeepney,"Baclaran",14.5294163,120.9971024
+Jeepney,"Baclaran",14.5294163,120.9971024
+Jeepney,"Bagbaguin",14.8131505,120.9517779
+Jeepney,"Bagong NayonII",14.6232601,121.1241373
+Jeepney,"Bagong NayonII",14.6232601,121.1241373
+Jeepney,"Bagumbayan (Taguig)",14.4770279,121.0550093
+Jeepney,"Bagumbayan (Taguig)",14.4770279,121.0550093
+Jeepney,"Balagtas",14.8227794,120.9130435
+Jeepney,"Baliuag (Bulacan)",14.9672031,120.8843434
+Jeepney,"Baliwag",14.578275,121.0347867
+Jeepney,"BBB",14.673670,120.981778
+Jeepney,"Bigte (Norgray Bul)",14.847470,121.074445
+Jeepney,"Binakayan (Kawit)",14.4505346,120.9277423
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Binangonan",14.4765477,121.195743
+Jeepney,"Bintog",14.9007772,120.8857785
+Jeepney,"Blumentritt",14.622628,120.982904
+Jeepney,"Brgy Bagong Silangan",14.7035887,121.1096683
+Jeepney,"Brgy Mali San Mateo (Rizal)",14.7084169,121.1313902
+Jeepney,"Brgy Pntong Bukawe (San Mateo)",14.6808786,121.1344843
+Jeepney,"Brgy San Rafael (Rodriguez)",14.6499467,120.9735428
+Jeepney,"Brgy San Rafael (Rodriguez)",14.6499467,120.9735428
+Jeepney,"Bulacan",14.7942735,120.8799008
+Jeepney,"Buso-Buso",13.756465,121.058308
+Jeepney,"Cainta",14.5864844,121.114876
+Jeepney,"Cainta",14.5864844,121.114876
+Jeepney,"Cainta",14.5864844,121.114876
+Jeepney,"Cainta Junction",14.5864844,121.114876
+Jeepney,"Cainta Junction",14.5864844,121.114876
+Jeepney,"Cainta Junction",14.5864844,121.114876
+Jeepney,"Cainta Junction",14.5864844,121.114876
+Jeepney,"Calawis (Antipolo)",14.7052322,121.2511908
+Jeepney,"Calumpang",14.624922,121.086535
+Jeepney,"Camella Homes Springville (Cavite)",14.4791297,120.8969634
+Jeepney,"Camella Homes Springville (Cavite)",14.4791297,120.8969634
+Jeepney,"Camella Homes Springville (Cavite)",14.4791297,120.8969634
+Jeepney,"Camella Homes Springville (Cavite)",14.4791297,120.8969634
+Jeepney,"Camella (Gawaran)",14.4390432,120.9973175
+Jeepney,"Cartimar",14.5504925,120.9964041
+Jeepney,"Cogeo",14.6234864,121.1733293
+Jeepney,"Cogeo",14.6234864,121.1733293
+Jeepney,"Cogeo",14.6234864,121.1733293
+Jeepney,"Commonwealth Market",14.6955346,121.0873809
+Jeepney,"Commonwealth Market",14.6955346,121.0873809
+Jeepney,"Cubao",14.6177663,121.0571541
+Jeepney,"Cubao",14.6177663,121.0571541
+Jeepney,"Cubao",14.6177663,121.0571541
+Jeepney,"Cubao",14.6177663,121.0571541
+Jeepney,"Cubao",14.6177663,121.0571541
+Jeepney,"Cubao",14.6177663,121.0571541
+Jeepney,"Cubao",14.6177663,121.0571541
+Jeepney,"Cubao",14.6177663,121.0571541
+Jeepney,"Cubao",14.6177663,121.0571541
+Jeepney,"Cubao",14.6177663,121.0571541
+Jeepney,"Cubao",14.6177663,121.0571541
+Jeepney,"Cubao",14.6177663,121.0571541
+Jeepney,"Cubao",14.6177663,121.0571541
+Jeepney,"Cubao",14.6177663,121.0571541
+Jeepney,"Dasmariñas Resettlement Area",14.315553,120.971678
+Jeepney,"Dasmariñas Resettlement Area",14.315553,120.971678
+Jeepney,"Dasmariñas Resettlement Area",14.315553,120.971678
+Jeepney,"Dasmariñas Resettlement Area",14.315553,120.971678
+Jeepney,"Divisoria",14.6028625,120.9700594
+Jeepney,"E Rodriguez (Marikina)",14.6591699,121.1108984
+Jeepney,"Eastern Rizal",14.1358747,120.9024384
+Jeepney,"EDSA/Shaw Central",14.580094,121.05274
+Jeepney,"EDSA/Shaw Central",14.580094,121.05274
+Jeepney,"EDSA/Shaw Central",14.580094,121.05274
+Jeepney,"EDSA/Shaw Central",14.580094,121.05274
+Jeepney,"EDSA/Shaw Central",14.580094,121.05274
+Jeepney,"EDSA/Shaw Central",14.580094,121.05274
+Jeepney,"EDSA/Shaw Central",14.580094,121.05274
+Jeepney,"EDSA/Shaw Central",14.580094,121.05274
+Jeepney,"EDSA/Shaw Central",14.580094,121.05274
+Jeepney,"EDSA/Shaw Central",14.580094,121.05274
+Jeepney,"EDSA/Shaw Central",14.580094,121.05274
+Jeepney,"EDSA/Shaw Central",14.580094,121.05274
+Jeepney,"EDSA/Shaw Central",14.580094,121.05274
+Jeepney,"EDSA/Shaw Central",14.580094,121.05274
+Jeepney,"EDSA/Shaw Central",14.580094,121.05274
+Jeepney,"Evergreen Subdivision",14.783019,121.045693
+Jeepney,"Francisco Homes (SJDM)",14.806866,121.068535
+Jeepney,"Francisco Homes",14.6760958,121.0714047
+Jeepney,"Francisco Homes",14.6760958,121.0714047
+Jeepney,"Francisco Homes",14.6760958,121.0714047
+Jeepney,"Francisco Homes",14.6760958,121.0714047
+Jeepney,"GMA-Pal-BacCvt(MolCstlRd)BacMallofAsiaVV",14.3066935,121.01373
+Jeepney,"Golden City Subd",14.2885935,121.1125667
+Jeepney,"Grotto (SJDM)",14.7901474,121.0745957
+Jeepney,"Gumaok (SJDM)",14.7991926,121.0613912
+Jeepney,"Hdela CostaII",14.6445528,121.0817812
+Jeepney,"Heritage Homes",14.775123,121.013799
+Jeepney,"Heritage Homes",14.775123,121.013799
+Jeepney,"Imus",14.4064221,120.9405057
+Jeepney,"Jordan Plaines",14.722551,121.049635
+Jeepney,"Karuhatan",14.6898877,120.9739935
+Jeepney,"Kasiglahan",14.7460778,121.1381933
+Jeepney,"Katarungan Vill (Munti)",14.666593,120.995984
+Jeepney,"Kawit (Cavite)",14.441139,120.9015642
+Jeepney,"Kaybiga",14.7194904,121.0128161
+Jeepney,"Libertad",14.547342,120.997522
+Jeepney,"Licao",14.794273,120.879901
+Jeepney,"Litex Mkt",14.7002014,121.0875197
+Jeepney,"Litex",14.69906,121.08709
+Jeepney,"Malabon",14.6829146,120.9474747
+Jeepney,"Malabon",14.6829146,120.9474747
+Jeepney,"Malabon (TP)",14.6829146,120.9474747
+Jeepney,"Malanday",14.647586,121.0943958
+Jeepney,"Mali San Mateo Rizal",14.7084169,121.1313902
+Jeepney,"Malinta",14.690787,120.963118
+Jeepney,"Malinta",14.690787,120.963118
+Jeepney,"Malinta",14.690787,120.963118
+Jeepney,"Malinta",14.690787,120.963118
+Jeepney,"Malinta",14.690787,120.963118
+Jeepney,"Malinta",14.690787,120.963118
+Jeepney,"Malinta",14.690787,120.963118
+Jeepney,"Malinta",14.690787,120.963118
+Jeepney,"Malinta",14.690787,120.963118
+Jeepney,"Malinta",14.690787,120.963118
+Jeepney,"Malinta",14.690787,120.963118
+Jeepney,"Malolos",14.8527393,120.8160376
+Jeepney,"Malolos",14.8527393,120.8160376
+Jeepney,"Mambugan",14.617585,121.1379063
+Jeepney,"Mambugan",14.617585,121.1379063
+Jeepney,"Marcos Ave",14.666690,121.071114
+Jeepney,"Marcos Ave",14.666690,121.071114
+Jeepney,"Marcos Ave (Commonwealth)",14.6945722,121.0910039
+Jeepney,"Marikina",14.65073,121.1028546
+Jeepney,"Marikina",14.65073,121.1028546
+Jeepney,"Marikina",14.65073,121.1028546
+Jeepney,"Marikina",14.65073,121.1028546
+Jeepney,"Marikina",14.65073,121.1028546
+Jeepney,"Marikina",14.65073,121.1028546
+Jeepney,"Marikina (TP)",14.5873983,121.1408911
+Jeepney,"Marikina",14.65073,121.1028546
+Jeepney,"Meycauayan",14.7498856,120.9739288
+Jeepney,"Meycauayan",14.7498856,120.9739288
+Jeepney,"Meycauayan",14.7498856,120.9739288
+Jeepney,"Meycauayan",14.7498856,120.9739288
+Jeepney,"Molino",14.452596,120.960791
+Jeepney,"Molino (SM) Bacoor Cavite",14.444626,120.9508508
+Jeepney,"Molino",14.452596,120.960791
+Jeepney,"Molino",14.452596,120.960791
+Jeepney,"Montalban",14.759817,121.201947
+Jeepney,"Montalban",14.759817,121.201947
+Jeepney,"Montalban",14.759817,121.201947
+Jeepney,"Montalban",14.759817,121.201947
+Jeepney,"Monumento",14.654191,120.983778
+Jeepney,"Monumento",14.654191,120.983778
+Jeepney,"Monumento",14.654191,120.983778
+Jeepney,"Monumento",14.654191,120.983778
+Jeepney,"Monumento",14.654191,120.983778
+Jeepney,"Monumento",14.654191,120.983778
+Jeepney,"Monumento",14.654191,120.983778
+Jeepney,"Monumento",14.654191,120.983778
+Jeepney,"Monumento",14.654191,120.983778
+Jeepney,"Monumento",14.654191,120.983778
+Jeepney,"Monumento",14.654191,120.983778
+Jeepney,"Monumento",14.654191,120.983778
+Jeepney,"Monumento",14.654191,120.983778
+Jeepney,"Norzagaray (Pob)",14.8744717,121.1446143
+Jeepney,"Novaliches",14.7214015,121.0521411
+Jeepney,"Novaliches",14.7214015,121.0521411
+Jeepney,"Ocean Park",14.578788,120.974547
+Jeepney,"Pabahay 2000 (SJDM)",14.7926395,121.0362425
+Jeepney,"Pabahay 2000 (SJDM)",14.7926395,121.0362425
+Jeepney,"Pabahay ni Erap (Rodriguez Rizal)",14.6816306,121.0352775
+Jeepney,"Pabahay ni Erap (Sub-urban)",14.6816306,121.0352775
+Jeepney,"Pacita Complex",14.3509036,121.052143
+Jeepney,"Pacita Complex",14.3509036,121.052143
+Jeepney,"Padilla/Cogeo",14.6234864,121.1733293
+Jeepney,"Paliparan",14.1154415,121.2826641
+Jeepney,"Pasig",14.5763768,121.0851097
+Jeepney,"Pasig",14.5763768,121.0851097
+Jeepney,"Pasig",14.5763768,121.0851097
+Jeepney,"Pasig",14.5763768,121.0851097
+Jeepney,"Philcoa",14.6539426,121.0529551
+Jeepney,"Philcoa",14.6539426,121.0529551
+Jeepney,"Plaridel",14.8814829,120.8671201
+Jeepney,"Polo",14.709238,120.947279
+Jeepney,"Queens Row Vill",14.439886,121.029599
+Jeepney,"Quezon City Hall",14.6463433,121.050038
+Jeepney,"Robinson's Galleria",14.592046,121.059396
+Jeepney,"Rodriguez",14.759817,121.2019468
+Jeepney,"Rodriguez (Marikina)",14.6591699,121.1108984
+Jeepney,"Rodriguez (Relocn)",14.759817,121.2019468
+Jeepney,"Rodriguez (Rizal)",14.759817,121.2019468
+Jeepney,"Rodriguez",14.759817,121.2019468
+Jeepney,"Rosario Jct",14.588464,121.089098
+Jeepney,"Rosario Jct",14.588464,121.089098
+Jeepney,"Samp (Tanay)",14.579705,121.331288
+Jeepney,"San Juan (Pinaglaban)",14.6046496,121.0292278
+Jeepney,"San Rafael (Rizal)",14.5697042,121.019418
+Jeepney,"Sapang Palay",14.8420945,121.0621749
+Jeepney,"Silang",14.2183093,120.9728536
+Jeepney,"SM Ayala (Greenbelt)",14.372892,121.045203
+Jeepney,"SM Molino",14.444626,120.9508508
+Jeepney,"San Rafael",14.998451,120.953212
+Jeepney,"Soldiers Hills 2",14.3987465,121.0451498
+Jeepney,"Soldiers Hills 2",14.3987465,121.0451498
+Jeepney,"Soldiers Hills 2",14.3987465,121.0451498
+Jeepney,"T Martirez",14.286648,120.861379
+Jeepney,"Tagaytay",14.115286,120.9621165
+Jeepney,"Tagaytay City",14.115286,120.9621165
+Jeepney,"Talon",14.443191,121.003405
+Jeepney,"Talon",14.443191,121.003405
+Jeepney,"Tanza",14.3519672,120.8384093
+Jeepney,"Tanza",14.3519672,120.8384093
+Jeepney,"Taytay",14.5585549,121.1360819
+Jeepney,"Taytay",14.5585549,121.1360819
+Jeepney,"Taytay",14.5585549,121.1360819
+Jeepney,"Trece Martirez",14.2866478,120.8613785
